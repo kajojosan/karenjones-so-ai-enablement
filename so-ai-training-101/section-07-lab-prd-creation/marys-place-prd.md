@@ -2,7 +2,7 @@
 
 **Organization:** Mary's Place Seattle  
 **Product Name:** Family Services Platform (Virtual Shelter Advocate + Inventory & Goods Management)  
-**Document Version:** 1.0  
+**Document Version:** 3.0  
 **Date:** May 2026  
 **Authors:** Solution Owner, Product Team
 
